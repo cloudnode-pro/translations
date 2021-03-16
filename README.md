@@ -7,7 +7,7 @@ The file `countries.json` in the root directory is again a JSON file. This file 
 
 The file `languages.json` in the root direcotry contains info about all languages in the repository, such as their name, ISO 639-1 code and icon. The icon is the flag of the primary country that the langauge is spoken in (e.g. for `de` -> Deutchland).
 
-# en.json
+# [en.json](https://github.com/CloudNode-pro/translations/blob/main/translations/en.json)
 This is the default translations file. It is written in **British English**, since that was originally the default language of the platform. Feel free to contribute to this file by changing wording specific to the UK with more standardised lexic and grammar, both for the UK and the USA. E.g. do not change `colour` to `color` (each word is specific to the different country), but do change `gobsmacked` to `surprised`, since the latter is a word recognised in both countries.
 
 # contributing
