@@ -15,11 +15,13 @@ You can contribute in many ways.
 
 If you find an inaccuracy, want to add a translation, new language, etc. feel free to create a fork, make your changes (please also add descriptive commit messages), and then open a pull request. You can contact our support team for more info on how to do that.
 
-To add a new language, copy `en.json`.
+To add a new language, copy `en.json`. When adding a new language, make sure to edit `countries.json` and `languages.json` where needed, otherwise nobody will be able to see your translations on our websites.
 
 For other suggestions, issues, etc., please [create a new issue](https://github.com/CloudNode-pro/translations/issues/new).
 
 Pull requests that change the general structure of the repository or do not follow the guidelines mentioned above will be rejected. Our system relies on these guidelines and the provided structure. Changes about that should be discussed in an issue so that we can coordinate to update our system.
+
+Translation changes become live as soon as published and approved by us. Please not that they may not appear immediately due to chaching.
 
 # rules
 1. No inappropriate content. Do not use vulgar words, sexual inuendos or otherwise write or link to content that might be viewed as inappropriate by others.
