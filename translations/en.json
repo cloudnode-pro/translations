@@ -1,3 +1,13 @@
 {
-  "Hosting": "test"
+  "Hosting": "test",
+  "Game Servers": "Game Servers",
+  "Web Hosting": "Web Hosting",
+  "KVM VPS": "KVM VPS",
+  "Dedicated Servers": "Dedicated Servers",
+  "From": "From",
+  "Domains": "Domains",
+  "Pricing": "Pricing",
+  "Support": "Support",
+  "Sign In": "Sign In",
+  "Sign Up": "Sign Up"
 }
