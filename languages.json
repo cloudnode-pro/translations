@@ -2,5 +2,9 @@
   "en": {
     "name": "English",
     "icon": "https://raw.githubusercontent.com/CloudNode-pro/circle-flags/gh-pages/flags/gb.svg"
+  },
+  "de": {
+    "name": "Deutsch",
+    "icon": "https://raw.githubusercontent.com/CloudNode-pro/circle-flags/gh-pages/flags/de.svg"
   }
 }
