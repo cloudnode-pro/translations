@@ -8,7 +8,7 @@
   "From": "Ab",
   "Domains": "Domain",
   "Pricing": "Preisgestaltung",
-  "Support": "Support",
+  "Support": "Hilfe",
   "Sign In": "Einloggen",
   "Sign Up": "Anmelden",
   "Create and unfold your server": "Erstellst und entfaltest du deinen Server",
@@ -51,5 +51,12 @@
   "Hostname": "Hostname",
   "Custom Domain": "Benutzerdefinierten Domain",
   "Get a custom domain to use with any of your servers.": "Hole dich eine benutzerdefinierte Domain, die du mit einem deiner Server verwenden kannst.",
-  "Domain": "Domain"
+  "Domain": "Domain",
+  "Company": "Unternehmen",
+  "About us": "Über uns",
+  "Customers" "Kund/innen",
+  "Carriers": "Karriere",
+  "Blog": "Blog",
+  "Ressourcen": "Ressourcen",
+  "Documentation": "Dokumentation"
 }
