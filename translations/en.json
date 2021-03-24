@@ -50,5 +50,12 @@
   "Hostname": "Hostname",
   "Custom Domain": "Custom Domain",
   "Get a custom domain to use with any of your servers.": "Get a custom domain to use with any of your servers.",
-  "Domain": "Domain"
+  "Domain": "Domain",
+  "Company": "Company",
+  "About us": "About us",
+  "Customers": "Customers",
+  "Carriers": "Carriers",
+  "Blog": "Blog",
+  "Resources": "Resources",
+  "Documentation": "Documentation"
 }
