@@ -67,5 +67,9 @@
   "All rights reserved.": "Wszelkie prawa zastrzeżone.",
   "Terms of Service": "Warunki Usługi",
   "Privacy Policy": "Polityka Prywatności",
-  "Forgot your e-mail?": "Zapomniałeś swojego adresu e-mail?"
+  "Forgot your e-mail?": "Zapomniałeś swojego adresu e-mail?",
+  "CPUs": "Procesory",
+  "CPU": "Procesor",
+  "Memory": "Pamięć",
+  "CPU Benchmark": "Benchmark Procesora"
 }
