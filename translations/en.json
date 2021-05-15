@@ -77,5 +77,6 @@
   "Fixed monthly and daily rates make calculating costs simple": "Fixed monthly and daily rates make calculating costs simple",
   "Instant deployment and full admin panel control, featuring AMD Ryzen 5 3600 or Intel Core i9-9900K CPUs based on availability.": "Instant deployment and full admin panel control, featuring AMD Ryzen 5 3600 or Intel Core i9-9900K CPUs based on availability.",
   "Servers are deployed within 48 hours and only come with root SSH credentials; upscaling, adding IPs, etc. is manual upon request.": "Servers are deployed within 48 hours and only come with root SSH credentials; upscaling, adding IPs, etc. is manual upon request.",
-  "Out of stock": "Out of stock"
+  "Out of stock": "Out of stock",
+  "Ready within 48 hours": "Ready within 48 hours"
 }
