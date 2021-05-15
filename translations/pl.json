@@ -72,5 +72,13 @@
   "CPUs": "Procesory",
   "CPU": "Procesor",
   "GB Memory": "GB Pamięci",
-  "CPU Benchmark": "Benchmark Procesora"
+  "CPU Benchmark": "Benchmark Procesora",
+  "Plans for professionals": "Plany dla profesjonalistów",
+  "Fixed monthly and daily rates make calculating costs simple": "Stałe miesięczne i dzienne stawki ułatwiają obliczanie kosztów",
+  "Instant deployment and full admin panel control, featuring AMD Ryzen 5 3600 or Intel Core i9-9900K CPUs based on availability.": "Natychmiastowe uruchomienie i pełna kontrola z panelu administracyjnego, w tym procesory AMD Ryzen 5 3600 lub Intel Core i9-9900K w zależności od dostępności.",
+  "Servers are deployed within 48 hours and only come with root SSH credentials; upscaling, adding IPs, etc. is manual upon request.": "Serwery są uruchamiane w ciągu 48 godzin i są dostarczane tylko z uprawieniami root SSH; skalowanie w górę, dodawanie adresów IP itp. jest wykonywane ręcznie na żądanie.",
+  "Renews at": "Odnawia się o",
+  "% off": "% zniżki",
+  "Out of stock": "Wyprzedane",
+  "Sale is available for the first month when pre-paying for at least two months.": "Sprzedaż jest dostępna przez pierwszy miesiąc przy przedpłacie za co najmniej dwa miesiące."
 }
