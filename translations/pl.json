@@ -15,6 +15,7 @@
   "Welcome to your game network": "Witaj na swoim serwerze gry",
   "Get Started": "Rozpocznij",
   "/mo": "/mieś",
+  "/day": "/dzień",
   "Sign up with Google": "Zarejestruj się używając Google",
   "By signing up you agree to the <a href=\"/terms\" class=\"text-light font-weight-500\">Terms of Service</a>.": "Rejestrując się, zgadzasz się z <a href=\"/terms\" class=\"text-light font-weight-500\">Warunkami Usługi</a>.",
   "By signing up you agree to the <a href=\"/terms\">Terms of Service</a>.": "Rejestrując się, zgadzasz się z <a href=\"/terms\">Warunkami Usługi</a>.",
