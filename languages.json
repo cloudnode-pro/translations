@@ -6,5 +6,9 @@
   "de": {
     "name": "Deutsch",
     "icon": "https://git.cloudnode.pro/raw/circle-flags/flags/de.svg"
+  },
+  "pl": {
+    "name": "Polski",
+    "icon": "https://git.cloudnode.pro/raw/circle-flags/flags/pl.svg"
   }
 }
