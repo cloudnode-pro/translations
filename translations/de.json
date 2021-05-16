@@ -83,7 +83,7 @@
   "Free": "Free",
   "Basic": "Basic",
   "Pro": "Pro",
-  "/yr": "/yr",
+  "/yr": " pro Jahr",
   "website": "website",
   "Storage": "storage",
   "Use own domain": "Use own domain",
@@ -96,7 +96,7 @@
   "Front-end Developer": "Front-end Developer",
   "Design Engineer": "Design Engineer",
   "Full-stack Developer": "Full-stack Developer",
-  "/hour": "/hour",
+  "/hour": " pro Stunde",
   "Web design": "Web design",
   "Static websites": "Static websites",
   "Custom illustrations": "Custom illustrations",
@@ -110,5 +110,5 @@
   "Database integrations": "Database integrations",
   "Security Expertise": "Security Expertise",
   "Works as a front and back-end developer at the same time. Develops web-platforms with server-side code included.": "Works as a front and back-end developer at the same time. Develops web-platforms with server-side code included.",
-  "or": "or"
+  "or": "oder"
 }
