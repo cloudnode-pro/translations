@@ -79,7 +79,7 @@
   "Servers are deployed within 48 hours and only come with root SSH credentials; upscaling, adding IPs, etc. is manual upon request.": "Serwery są uruchamiane w ciągu 48 godzin i są dostarczane tylko z uprawieniami root SSH; skalowanie w górę, dodawanie adresów IP itp. jest wykonywane ręcznie na żądanie.",
   "Out of stock": "Wyprzedane",
   "Ready within 48 hours": "Gotowy wciągu 48 godzin",
-  "Free": "Wolny",
+  "Free": "Darmowy",
   "Basic": "Podstawowy",
   "Pro": "Pro",
   "/yr": "/rok",
