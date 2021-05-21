@@ -1,0 +1,21 @@
+name: Demo
+
+on:
+  push:
+    paths:
+      - 'translations/**.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Update JSON Files
+        #run: ./path/to/binary/to/run/your/logic
+        run: echo Test
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Changed JSON Files
