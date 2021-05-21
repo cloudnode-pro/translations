@@ -21,7 +21,7 @@ fs.readFile(path.join(__dirname, "../../translations/en.json"), function (err, d
 			for (let key of keys) if (!localKeys.includes(key)) data[key] = key;
 			// find and remove extra keys
 			for (let key of localKeys) if (!keys.includes(key)) data[key] = undefined;
-				
+
 			// if any changes made to the file in ram, write
 			if (JSON.stringify(localKeys.sort()) !== JSON.stringify(Object.keys(data).sort())) {
 				console.log(`Writing changes to ${file}`);
@@ -31,3 +31,5 @@ fs.readFile(path.join(__dirname, "../../translations/en.json"), function (err, d
 	})
 
 });
+
+console.log("Done!");
