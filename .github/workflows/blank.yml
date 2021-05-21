@@ -14,7 +14,6 @@ jobs:
 
       - name: Update JSON Files
         run: |
-            npm install;
             node ../.github/workflows/syncTranslations.js;
             echo Done!
 
