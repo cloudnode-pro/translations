@@ -15,7 +15,7 @@ jobs:
       - name: Update JSON Files
         run: |
             cd .github/workflows
-            node start
+            node .
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
