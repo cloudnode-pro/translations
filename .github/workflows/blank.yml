@@ -14,7 +14,7 @@ jobs:
 
       - name: Update JSON Files
         #run: ./path/to/binary/to/run/your/logic
-        run: echo Test
+        run: dir
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
