@@ -79,6 +79,5 @@
   "cores": "cores",
   "set-up fee": "set-up fee",
   "Error": "Error",
-  "The requested resource %s was not found on this server.": "The requested resource %s was not found on this server.",
-  "WORKFLOW TEST": "WORKFLOW TEST"
+  "The requested resource %s was not found on this server.": "The requested resource %s was not found on this server."
 }
