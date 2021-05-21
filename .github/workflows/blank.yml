@@ -14,6 +14,8 @@ jobs:
 
       - name: Update JSON Files
         run: |
+            cd ../
+            dir
             node ../.github/workflows/syncTranslations.js;
             echo Done!
 
