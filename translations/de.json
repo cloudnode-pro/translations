@@ -79,6 +79,5 @@
  "cores": "Kerne",
  "set-up fee": "Einrichtungsgebühr",
  "Error": "Error",
- "The requested resource %s was not found on this server.": "Die angeforderte Ressource %s wurde auf diesem Server nicht gefunden.",
- "": ""
+ "The requested resource %s was not found on this server.": "Die angeforderte Ressource %s wurde auf diesem Server nicht gefunden."
 }
