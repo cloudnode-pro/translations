@@ -20,5 +20,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Synchronised translations
-          commit_user_name: Cloudnode
-          commit_user_email: support@cloudnode.pro
+          commit_user_name: williamd5
+          commit_user_email: willduncannn@gmail.com
