@@ -80,5 +80,10 @@
  "set-up fee": "opłaty za instalację",
  "Error": "Błąd",
  "The requested resource %s was not found on this server.": "Zasób %s nie został znaleziony na tym serwerze.",
- "search...": "wyszukaj..."
+ "search...": "wyszukaj...",
+ "Cloudnode Forms": "Cloudnode Forms",
+ "Access Form": "Access Form",
+ "Paste the access code to a form here.": "Paste the access code to a form here.",
+ "Access token": "Access token",
+ "Next": "Next"
 }

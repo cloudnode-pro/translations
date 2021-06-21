@@ -80,5 +80,10 @@
  "set-up fee": "плата за установку",
  "Error": "Ошибка",
  "The requested resource %s was not found on this server.": "Запрошенный ресурс %s не найден на этом сервере.",
- "search...": "поиск..."
+ "search...": "поиск...",
+ "Cloudnode Forms": "Cloudnode Forms",
+ "Access Form": "Access Form",
+ "Paste the access code to a form here.": "Paste the access code to a form here.",
+ "Access token": "Access token",
+ "Next": "Next"
 }

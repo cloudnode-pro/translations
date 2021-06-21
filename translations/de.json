@@ -80,5 +80,10 @@
  "set-up fee": "Einrichtungsgebühr",
  "Error": "Error",
  "The requested resource %s was not found on this server.": "Die angeforderte Ressource %s wurde auf diesem Server nicht gefunden.",
- "search...": "suche..."
+ "search...": "suche...",
+ "Cloudnode Forms": "Cloudnode Forms",
+ "Access Form": "Access Form",
+ "Paste the access code to a form here.": "Paste the access code to a form here.",
+ "Access token": "Access token",
+ "Next": "Next"
 }
