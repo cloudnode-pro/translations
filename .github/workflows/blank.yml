@@ -1,9 +1,9 @@
 name: Sync translations
 
 on:
-  push:
-    paths:
-      - 'translations/**.json'
+#  push:
+#    paths:
+#      - 'translations/**.json'
 
 jobs:
   build:
